@@ -83,7 +83,8 @@ $ npm run upload_files
 
 Upload Metadata: 
 ```
-$ npm run upload_metadata
+$ 
+npm run upload_metadata
 ```
 
 - Uploads all `.json` files in both the `/backend/build/json` folder and, if it exists, the `/backend/build/genericJson` folder as well. 
