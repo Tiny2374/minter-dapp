@@ -90,7 +90,7 @@ $ npm run upload_metadata
 
 Deploy Contract: 
 ```
-$ 
+$ npm run deploy_contract
 ```
 
 - Deploys a contract to the blockchain using the settings from the `/backend/src/config.js` file.
